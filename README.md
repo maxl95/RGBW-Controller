@@ -1,6 +1,6 @@
 # RGBW-Controller
 This is a low cost and tasmota compatile RGBW-Controller as an alternative to MagicHome devices.
-~~Everything is untested until now.~~
+Everything is untested until now.
 
 
 # Some specs:
@@ -10,7 +10,7 @@ This is a low cost and tasmota compatile RGBW-Controller as an alternative to Ma
 - price/piece around 5.60€
 - dimensions 20mm x 35mm
 
-# Tasmota template
+# Tasmota template:
 
 
 # known bugs:
