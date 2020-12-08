@@ -17,4 +17,4 @@ Everything is untested until now.
 
 
 # Pictures:
-
+![Board3D](pictures/3D_render_collage.jpg)
