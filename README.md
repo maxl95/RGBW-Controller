@@ -14,7 +14,7 @@ Everything is untested until now.
 
 
 # known bugs:
-
+- Short circuit between +12V and GND because of a polygon error
 
 # Pictures:
 ![Board3D](pictures/3D_render_collage.jpg)
