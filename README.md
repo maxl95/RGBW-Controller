@@ -17,4 +17,4 @@ Everything is untested until now.
 - ~Short circuit between +12V and GND because of a polygon error~
 
 # Pictures:
-![Board3D](pictures/3D_render_collage.jpg)
+![Board3D](https://github.com/maxl95/RGBW-Controller/blob/main/pictures/3D_render_collage.jpg)
